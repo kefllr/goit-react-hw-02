@@ -1,0 +1,18 @@
+.decrBox {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    
+}
+
+.descrHeader {
+    color: #FFF;
+}
+
+.descr {
+    font-style: italic;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}

@@ -1,0 +1,18 @@
+.optBox {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+button {
+font-size: 16px;
+font-weight: 500;
+width: 80px;
+color: #fff;
+background-color: orange;
+border: none;
+border-radius: 12%;
+padding: 8px;
+}
